@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tmu-cps630-project/static/css/main.687ddc02.css",
+    "main.js": "/tmu-cps630-project/static/js/main.e4970210.js",
+    "static/js/453.b3553bed.chunk.js": "/tmu-cps630-project/static/js/453.b3553bed.chunk.js",
+    "index.html": "/tmu-cps630-project/index.html",
+    "main.687ddc02.css.map": "/tmu-cps630-project/static/css/main.687ddc02.css.map",
+    "main.e4970210.js.map": "/tmu-cps630-project/static/js/main.e4970210.js.map",
+    "453.b3553bed.chunk.js.map": "/tmu-cps630-project/static/js/453.b3553bed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.687ddc02.css",
+    "static/js/main.e4970210.js"
+  ]
+}
